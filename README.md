@@ -19,7 +19,7 @@ The stylometric features include:
 - sentence length variance
 - average word length
 - type-token ratio
-- MTLD
+- MTLD <a href="https://link.springer.com/article/10.3758/BRM.42.2.381" target="_blank">McCarthy and Jarvis (2010)</a>
 - punctuation rate
 - comma rate
 - em dash rate
