@@ -1,4 +1,4 @@
- project_name: ai_text_detector
+project_name: ai_text_detector
 
 train_path: data/raw/train.jsonl
 val_path: data/raw/val.jsonl
