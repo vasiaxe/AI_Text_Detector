@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/ai_detector/__init__.py
+src/ai_detector/data.py
+src/ai_detector/evaluate.py
+src/ai_detector/features.py
+src/ai_detector/model.py
+src/ai_detector/predict.py
+src/ai_detector/train.py
+src/ai_detector/utils.py
+src/ai_text_detector.egg-info/PKG-INFO
+src/ai_text_detector.egg-info/SOURCES.txt
+src/ai_text_detector.egg-info/dependency_links.txt
+src/ai_text_detector.egg-info/top_level.txt

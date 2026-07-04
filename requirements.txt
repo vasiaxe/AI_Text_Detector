@@ -1,0 +1,11 @@
+torch
+transformers
+scikit-learn
+pandas
+numpy
+matplotlib
+PyYAML
+tqdm
+nltk
+lexical-diversity
+joblib

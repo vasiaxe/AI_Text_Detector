@@ -1,0 +1,16 @@
+{
+  "confusion_matrix": [
+    [
+      958,
+      77
+    ],
+    [
+      12,
+      1680
+    ]
+  ],
+  "labels": [
+    "human",
+    "ai_generated"
+  ]
+}

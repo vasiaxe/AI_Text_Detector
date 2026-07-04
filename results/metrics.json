@@ -1,0 +1,30 @@
+{
+  "best_epoch": 1,
+  "best_validation_accuracy": 0.9636963696369637,
+  "best_validation_f1": 0.971379011274935,
+  "best_validation_loss": 0.22128282029943527,
+  "best_validation_precision": 0.9507640067911715,
+  "best_validation_recall": 0.9929078014184397,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.11662614212104185,
+      "validation_accuracy": 0.9636963696369637,
+      "validation_f1": 0.971379011274935,
+      "validation_loss": 0.22128282029943527,
+      "validation_precision": 0.9507640067911715,
+      "validation_recall": 0.9929078014184397
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.055075302257519596,
+      "validation_accuracy": 0.9354602126879354,
+      "validation_f1": 0.9504783342712436,
+      "validation_loss": 0.5414043693313987,
+      "validation_precision": 0.9070891514500538,
+      "validation_recall": 0.99822695035461
+    }
+  ],
+  "model_name": "microsoft/deberta-v3-base",
+  "project_name": "ai_text_detector"
+}

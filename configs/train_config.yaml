@@ -1,0 +1,31 @@
+ project_name: ai_text_detector
+
+train_path: data/raw/train.jsonl
+val_path: data/raw/val.jsonl
+test_path: data/raw/test.jsonl
+
+text_column: text
+label_column: label
+
+model_name: microsoft/deberta-v3-base
+output_dir: models/ai_detector
+results_dir: results
+
+max_length: 512
+batch_size: 4
+eval_batch_size: 8
+epochs: 2
+
+deberta_learning_rate: 0.000001
+classifier_learning_rate: 0.0001
+adam_epsilon: 0.000001
+weight_decay: 0
+max_grad_norm: 1.0
+dropout: 0.2
+hidden_dim: 256
+
+style_clip_value: 5
+style_feature_dim: 13
+
+random_seed: 42
+num_labels: 2
